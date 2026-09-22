@@ -1,3 +1,6 @@
 {"date": "2026-09-21", "engine": "antv", "lane": "ai", "selected_by": "selector", "structure": "hierarchy-tree", "template": "hierarchy-tree-lr-curved-line-badge-card"}
 {"date": "2026-09-21", "engine": "antv", "lane": "sports-tech", "selected_by": "selector", "structure": "list-grid", "template": "list-grid-candy-card-lite"}
 {"date": "2026-09-21", "engine": "antv", "lane": "investment", "selected_by": "selector", "structure": "slam-figure-hero", "template": "slam-figure-hero"}
+{"date": "2026-09-22", "engine": "antv", "lane": "ai", "selected_by": "art-direction", "structure": "hierarchy-tree", "template": "hierarchy-tree-lr-curved-line-rounded-rect-node"}
+{"date": "2026-09-22", "engine": "antv", "lane": "sports-tech", "selected_by": "selector", "structure": "slam-figure-pair", "template": "slam-figure-pair"}
+{"date": "2026-09-22", "engine": "antv", "lane": "investment", "selected_by": "selector", "structure": "hierarchy-tree", "template": "hierarchy-tree-lr-curved-line-rounded-rect-node"}
