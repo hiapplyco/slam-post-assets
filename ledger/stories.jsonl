@@ -112,3 +112,6 @@
 {"brand": "ai-signal", "date": "2026-09-24", "entities": ["koray kavukcuoglu"], "lane": "ai", "story_kind": null, "subject": null, "urls": ["https://theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu"]}
 {"brand": "slam", "date": "2026-09-24", "entities": ["skt fan", "sang uk", "aichi nagoya"], "lane": "sports-tech", "story_kind": null, "subject": null, "urls": ["https://en.nocutnews.co.kr/news/6582979"]}
 {"brand": "slam", "date": "2026-09-24", "entities": ["topdog", "peter blacklow", "raine", "bullpen", "fanduel", "draftkings"], "lane": "investment", "story_kind": null, "subject": null, "urls": ["https://next.io/news/investment/topdog-fundraise-involvement-fanduel-investors"]}
+{"brand": "ai-signal", "date": "2026-09-25", "entities": ["koray kavukcuoglu", "demis hassabis"], "lane": "ai", "story_kind": "model-release", "subject": "gemini 4 timing", "urls": []}
+{"brand": "slam", "date": "2026-09-25", "entities": ["doug sweeny", "julia cheney", "oura"], "lane": "sports-tech", "story_kind": "partnership", "subject": "oura sports partnerships", "urls": []}
+{"brand": "slam", "date": "2026-09-25", "entities": ["lupita nyong o", "bien aime baraza", "chiki kuruka"], "lane": "investment", "story_kind": "other", "subject": "new investors in nairobi city thunder", "urls": []}
