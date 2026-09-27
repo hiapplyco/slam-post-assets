@@ -115,3 +115,6 @@
 {"brand": "ai-signal", "date": "2026-09-25", "entities": ["koray kavukcuoglu", "demis hassabis"], "lane": "ai", "story_kind": "model-release", "subject": "gemini 4 timing", "urls": []}
 {"brand": "slam", "date": "2026-09-25", "entities": ["doug sweeny", "julia cheney", "oura"], "lane": "sports-tech", "story_kind": "partnership", "subject": "oura sports partnerships", "urls": []}
 {"brand": "slam", "date": "2026-09-25", "entities": ["lupita nyong o", "bien aime baraza", "chiki kuruka"], "lane": "investment", "story_kind": "other", "subject": "new investors in nairobi city thunder", "urls": []}
+{"brand": "ai-signal", "date": "2026-09-27", "entities": ["dario amodei", "liz bourgeois", "metr", "sarah shoker"], "lane": "ai", "story_kind": "policy", "subject": null, "urls": []}
+{"brand": "slam", "date": "2026-09-27", "entities": ["apostolos atsalakis", "panos papadiamantis", "pnoe"], "lane": "sports-tech", "story_kind": "product-launch", "subject": null, "urls": []}
+{"brand": "slam", "date": "2026-09-27", "entities": ["almirante", "marcos lamacchia", "mario junqueira", "vasco saf"], "lane": "investment", "story_kind": "acquisition", "subject": null, "urls": []}
