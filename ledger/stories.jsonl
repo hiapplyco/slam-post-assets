@@ -163,3 +163,6 @@
 {"brand": "slam", "date": "2026-09-19", "entities": [], "lane": "sports-tech", "story_kind": null, "subject": null, "urls": ["https://e.test/a"]}
 {"brand": "slam", "date": "2026-09-19", "entities": [], "lane": "sports-tech", "story_kind": null, "subject": null, "urls": ["https://e.test/a"]}
 {"brand": "slam", "date": "2026-09-19", "entities": [], "lane": "sports-tech", "story_kind": null, "subject": null, "urls": ["https://e.test/a"]}
+{"brand": "ai-signal", "date": "2026-09-28", "entities": ["samsung sds", "amazon bedrock"], "lane": "ai", "story_kind": "partnership", "subject": null, "urls": []}
+{"brand": "slam", "date": "2026-09-28", "entities": ["team novo nordisk", "dexcom", "phil southerland", "david lozano"], "lane": "sports-tech", "story_kind": "partnership", "subject": null, "urls": []}
+{"brand": "slam", "date": "2026-09-28", "entities": ["rapl group", "salim diwan", "dr sattar diwan", "sania mirza", "rinky hijikata"], "lane": "investment", "story_kind": "acquisition", "subject": null, "urls": []}
