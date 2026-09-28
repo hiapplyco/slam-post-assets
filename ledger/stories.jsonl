@@ -120,3 +120,4 @@
 {"brand": "slam", "date": "2026-09-27", "entities": ["almirante", "marcos lamacchia", "mario junqueira", "vasco saf"], "lane": "investment", "story_kind": "acquisition", "subject": null, "urls": []}
 {"brand": "ai-signal", "date": "2026-09-19", "entities": [], "lane": "ai", "story_kind": null, "subject": null, "urls": ["https://example.test/ai"]}
 {"brand": "ai-signal", "date": "2026-09-19", "entities": [], "lane": "ai", "story_kind": null, "subject": null, "urls": ["https://example.test/ai"]}
+{"brand": "ai-signal", "date": "2026-09-19", "entities": [], "lane": "ai", "story_kind": null, "subject": null, "urls": ["https://example.test/ai"]}
