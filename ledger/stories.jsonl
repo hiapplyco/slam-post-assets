@@ -118,3 +118,4 @@
 {"brand": "ai-signal", "date": "2026-09-27", "entities": ["dario amodei", "liz bourgeois", "metr", "sarah shoker"], "lane": "ai", "story_kind": "policy", "subject": null, "urls": []}
 {"brand": "slam", "date": "2026-09-27", "entities": ["apostolos atsalakis", "panos papadiamantis", "pnoe"], "lane": "sports-tech", "story_kind": "product-launch", "subject": null, "urls": []}
 {"brand": "slam", "date": "2026-09-27", "entities": ["almirante", "marcos lamacchia", "mario junqueira", "vasco saf"], "lane": "investment", "story_kind": "acquisition", "subject": null, "urls": []}
+{"brand": "ai-signal", "date": "2026-09-19", "entities": [], "lane": "ai", "story_kind": null, "subject": null, "urls": ["https://example.test/ai"]}
