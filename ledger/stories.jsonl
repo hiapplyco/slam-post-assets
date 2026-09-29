@@ -121,3 +121,6 @@
 {"brand": "ai-signal", "date": "2026-09-28", "entities": ["samsung sds", "amazon bedrock"], "lane": "ai", "story_kind": "partnership", "subject": null, "urls": []}
 {"brand": "slam", "date": "2026-09-28", "entities": ["team novo nordisk", "dexcom", "phil southerland", "david lozano"], "lane": "sports-tech", "story_kind": "partnership", "subject": null, "urls": []}
 {"brand": "slam", "date": "2026-09-28", "entities": ["rapl group", "salim diwan", "dr sattar diwan", "sania mirza", "rinky hijikata"], "lane": "investment", "story_kind": "acquisition", "subject": null, "urls": []}
+{"brand": "ai-signal", "date": "2026-09-29", "entities": ["saachi jain"], "lane": "ai", "story_kind": "model-release", "subject": "openai will not release gpt 6 1 astra over safety concerns", "urls": []}
+{"brand": "slam", "date": "2026-09-29", "entities": ["homanshika reddy pullagurla", "somatrace", "abhinav bindra"], "lane": "sports-tech", "story_kind": "product-launch", "subject": "somatrace a wearable that tracks spinal movement in real time", "urls": []}
+{"brand": "slam", "date": "2026-09-29", "entities": ["brian white", "brad bell", "investors society"], "lane": "investment", "story_kind": "other", "subject": null, "urls": []}
