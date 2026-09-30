@@ -37,7 +37,7 @@
   <g transform="translate(60, 260)"><text x="0" y="55" class="font-heading-heavy" font-size="58" fill="#FFFFFF" letter-spacing="-1">STEELERS @ BROWNS:</text>
 <text x="0" y="130" class="font-heading-heavy" font-size="64" fill="#FED603" letter-spacing="-1">THE 2 PREGAME</text>
 <text x="0" y="205" class="font-heading-heavy" font-size="64" fill="#FFFFFF" letter-spacing="-1">ADJUSTMENTS</text>
-<text x="0" y="270" class="font-body" font-size="22" fill="#A0A0A0" font-weight="500">A schematic look at the trench matchups behind Thursday night in Cleveland.</text></g>
+<text x="0" y="270" class="font-body" font-size="22" fill="#A0A0A0" font-weight="500">A schematic breakdown of the trench battles behind Thursday night in Cleveland.</text></g>
   <g transform="translate(60, 590)"><rect x="0" y="0" width="465" height="380" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" filter="url(#cardShadow)"/>
     <rect x="0" y="0" width="465" height="6" rx="3" fill="#FED603" />
     <g transform="translate(32, 45)">
@@ -58,19 +58,19 @@
       <text x="0" y="80" class="font-heading-heavy" font-size="76" fill="#FFFFFF">9 &amp; 8</text>
       <text x="0" y="115" class="font-heading" font-size="18" fill="#0C92F1">SACKS ALLOWED: CLE &amp; PIT</text>
       <line x1="0" y1="140" x2="400" y2="140" stroke="#282828" stroke-width="1" />
-      <text x="0" y="175" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">Both offenses have taken sacks through three</text>
+      <text x="0" y="175" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">Both offenses have leaked sacks through three</text>
 <text x="0" y="200" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">games: Cleveland 9, Pittsburgh 8.</text>
       <rect x="0" y="235" width="400" height="50" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
       <circle cx="20" cy="260" r="5" fill="#EF4444" />
-      <text x="36" y="265" class="font-mono" font-size="12" fill="#FFFFFF">SACKS MADE: CLEVELAND 7, PITTSBURGH 8</text>
+      <text x="36" y="265" class="font-mono" font-size="12" fill="#FFFFFF">PIT EDGES: WATT 3.5 + HIGHSMITH 3.0 SACKS</text>
     </g></g>
   <g transform="translate(60, 1010)">
     <rect x="0" y="0" width="960" height="190" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
     <g transform="translate(36, 40)">
       <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">THE TACTICAL IMPERATIVE</text>
-      <text x="0" y="34" class="font-heading" font-size="22" fill="#FFFFFF">The line of scrimmage sets the script on Thursday night.</text>
+      <text x="0" y="34" class="font-heading" font-size="22" fill="#FFFFFF">Whoever wins the line of scrimmage wins Thursday night.</text>
       <text x="0" y="68" class="font-body" font-size="17" fill="#A0A0A0">Pittsburgh's run game meets a Cleveland front allowing 4.5 a carry, and both quarterbacks have been</text>
-<text x="0" y="91" class="font-body" font-size="17" fill="#A0A0A0">sacked often. The public data points to the trenches.</text>
+<text x="0" y="91" class="font-body" font-size="17" fill="#A0A0A0">sacked often. The trenches set the script.</text>
       <circle cx="4" cy="131" r="4" fill="#FED603" /><text x="16" y="136" class="font-mono" font-size="13" fill="#666666">7-PAGE SLIDE DECK</text>
     </g>
   </g>
@@ -79,6 +79,6 @@
     <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
     <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">PIT @ CLE • THURSDAY NIGHT FOOTBALL</text>
     <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">SWIPE FOR THE BLUEPRINT &gt;&gt;&gt;</text>
-    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: PRO-FOOTBALL-REFERENCE, STEELERS.COM, CLEVELANDBROWNS.COM • THROUGH WEEK 3</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: PRO-FOOTBALL-REFERENCE, CLEVELANDBROWNS.COM, STEELERS.COM • THRU WEEK 3</text>
   </g>
 </svg>

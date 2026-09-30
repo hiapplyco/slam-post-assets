@@ -34,7 +34,7 @@
     <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE GROUND GAME EDGE</text>
     <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE GROUND GAME EDGE:</text>
     <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">WARREN VS. CLE'S FRONT</text>
-    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Pittsburgh's rushing yards have climbed every week while Cleveland allows 4.5 a carry.</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Pittsburgh's rushing output has climbed every week while Cleveland gives up 4.5 yards a carry.</text>
   </g>
   <g transform="translate(60, 390)">
     <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
@@ -52,7 +52,7 @@
       <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
       <rect x="0" y="38" width="600" height="42" rx="8" fill="#0C92F1" />
       <text x="586" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.5</text>
-      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">80 CARRIES, 361 YARDS ALLOWED • CLEVELANDBROWNS.COM</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">80 CARRIES, 361 YARDS ALLOWED • NFL.COM</text>
     </g>
     </g>
   </g>
@@ -65,20 +65,20 @@
       <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
       <g transform="translate(24, 28)">
         <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">THE TREND</text>
-        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Pittsburgh's rushing output rose each week vs.</text>
-<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">ATL, NE and CIN.</text>
-        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">RB Rico Dowdle (toe) was DNP on Monday's estimated</text>
-<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">report.</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Pittsburgh's rushing output rose each week, and</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Warren played 90% of snaps in Week 3.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">RB Rico Dowdle (toe) was listed DNP on Monday's</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">estimated report.</text>
       </g>
     </g>
 <g transform="translate(460, 0)">
       <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
       <g transform="translate(24, 28)">
         <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">THE COUNTERPOINT</text>
-        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Cleveland's opponents have no rushing</text>
-<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">touchdowns this season.</text>
-        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Pittsburgh has none either and has scored on 2 of 6</text>
-<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">red-zone trips.</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Cleveland has not allowed a rushing touchdown</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">this season.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Pittsburgh has no rushing TDs either and is 2-for-6</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">in the red zone.</text>
       </g>
     </g></g>
       <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
@@ -89,8 +89,8 @@
     <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
     <g transform="translate(32, 32)">
       <text x="0" y="0" class="font-heading" font-size="18" fill="#FED603">THE OFFENSIVE MANDATE:</text>
-      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Stay ahead of the chains. Pittsburgh converts 32.4% of third downs, 29th in the NFL.</text>
-      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Pittsburgh averages 17.7 points a game, 26th of 32, so run success has to shorten third downs.</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Feed Warren early and stay ahead of the chains. Pittsburgh converts just 32.4% of third downs, 29th in the NFL.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Run success keeps Rodgers out of third-and-long against a Cleveland front led by Mason Graham's 4 sacks.</text>
     </g>
   </g>
   
@@ -98,6 +98,6 @@
     <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
     <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">PIT @ CLE • THURSDAY NIGHT FOOTBALL</text>
     <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE RUN-FIRST BLUEPRINT &gt;&gt;&gt;</text>
-    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: PRO-FOOTBALL-REFERENCE, STEELERS.COM, CLEVELANDBROWNS.COM • THROUGH WEEK 3</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: PRO-FOOTBALL-REFERENCE, CLEVELANDBROWNS.COM, STEELERS.COM • THRU WEEK 3</text>
   </g>
 </svg>
