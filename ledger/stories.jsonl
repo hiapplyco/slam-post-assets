@@ -144,3 +144,4 @@
 {"brand": "slam", "date": "2026-10-01", "entities": ["rohan ramadas", "jj redick"], "lane": "sports-tech", "story_kind": "other", "subject": "player development analytics", "urls": ["https://sports.yahoo.com/articles/theres-cool-stuff-were-rolling-011355607.html"]}
 {"brand": "slam", "date": "2026-10-01", "entities": ["nick leopard"], "lane": "investment", "story_kind": "acquisition", "subject": "new york islanders minority stake", "urls": ["https://amny.com/sports/nick-leopard-islanders-9-30-26"]}
 {"brand": "ai-signal", "date": "2026-10-04", "entities": ["aleph alpha"], "lane": "ai", "story_kind": "model-release", "subject": "aleph alpha kolibri", "urls": []}
+{"brand": "ai-signal", "date": "2026-10-04", "entities": [], "lane": "ai", "story_kind": null, "subject": null, "urls": ["https://officechai.com/ai/kolibri-aleph-alpha"]}
