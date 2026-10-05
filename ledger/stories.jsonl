@@ -145,3 +145,6 @@
 {"brand": "slam", "date": "2026-10-01", "entities": ["nick leopard"], "lane": "investment", "story_kind": "acquisition", "subject": "new york islanders minority stake", "urls": ["https://amny.com/sports/nick-leopard-islanders-9-30-26"]}
 {"brand": "ai-signal", "date": "2026-10-04", "entities": ["aleph alpha"], "lane": "ai", "story_kind": "model-release", "subject": "aleph alpha kolibri", "urls": []}
 {"brand": "ai-signal", "date": "2026-10-04", "entities": [], "lane": "ai", "story_kind": null, "subject": null, "urls": ["https://officechai.com/ai/kolibri-aleph-alpha"]}
+{"brand": "ai-signal", "date": "2026-10-05", "entities": ["cohere", "bell cyber"], "lane": "ai", "story_kind": "product-launch", "subject": "cohere north 2 ai agent platform", "urls": []}
+{"brand": "slam", "date": "2026-10-05", "entities": ["zlatko hrkac", "jason jazayeri", "sportradar"], "lane": "sports-tech", "story_kind": "partnership", "subject": "nhl and sofascore multiyear global partnership on nhl edge data", "urls": []}
+{"brand": "slam", "date": "2026-10-05", "entities": ["madhavkrishna singhania", "sukhvinder singh", "jkc sports"], "lane": "investment", "story_kind": "funding", "subject": null, "urls": []}
