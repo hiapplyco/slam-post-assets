@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="253" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">LIVE AUDIT • SCORECARD</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">06 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="249" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE VALIDATION SCORECARD</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">HOW TO SCORE THIS</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">REPORT LIVE ON TNF</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Track these 3 benchmarks during the broadcast to see who is winning the trenches.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#FED603" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603">METRIC 01 • PROTECTION</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Sacks of each quarterback</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmarks: Dallas 4+ sacks (TB allows 4.0 a game). TB 2 or fewer allowed (DAL allows 1.5 a game).</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#FED603">THE PASS RUSH IS WINNING</text>
+      </g>
+    </g>
+<g transform="translate(0, 225)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#0C92F1" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1">METRIC 02 • THE GROUND GAME</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Yards per carry vs. season rates</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmarks: TB 4.4 or better (DAL allows 4.8); DAL 3.8 or better (TB allows 3.2).</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#10B981">THE RUN GAME BEATS THE FRONT</text>
+      </g>
+    </g>
+<g transform="translate(0, 450)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#10B981" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981">METRIC 03 • THIRD DOWN</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Third-down conversions</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmarks: DAL 5-for-10 (51% season); TB 4-for-12 (33%, 34.5% season).</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#10B981">DRIVES ARE STAYING ALIVE</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="140" rx="16" fill="#121212" stroke="#FED603" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">SAVE THIS CAROUSEL FOR KICKOFF</text>
+      <text x="0" y="34" class="font-heading" font-size="20" fill="#FFFFFF">Track these 3 benchmarks during the Prime Video broadcast.</text>
+      <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">We will post our halftime read on X and LinkedIn.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: JOIN THE DISCUSSION &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</svg>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8280 1350" width="8280" height="1350"><defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs><g id="Slide_1" transform="translate(0, 0)"><clipPath id="clip_slide_1"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_1)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  <circle cx="900" cy="200" r="300" fill="#FED603" opacity="0.04" filter="blur(80px)" />
+  <circle cx="150" cy="900" r="350" fill="#0C92F1" opacity="0.05" filter="blur(80px)" />
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="235" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">PREGAME INTELLIGENCE</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">01 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="256" height="38" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="18" y="24" class="font-mono" font-size="14" fill="#FED603" letter-spacing="1">WEEK 5 • TNF FILM AUDIT</text>
+  </g>
+  <g transform="translate(60, 260)"><text x="0" y="55" class="font-heading-heavy" font-size="58" fill="#FFFFFF" letter-spacing="-1">BUCCANEERS @ COWBOYS:</text>
+<text x="0" y="130" class="font-heading-heavy" font-size="64" fill="#FED603" letter-spacing="-1">THE 2 PREGAME</text>
+<text x="0" y="205" class="font-heading-heavy" font-size="64" fill="#FFFFFF" letter-spacing="-1">ADJUSTMENTS</text>
+<text x="0" y="270" class="font-body" font-size="22" fill="#A0A0A0" font-weight="500">A schematic breakdown of the ground game and pass-protection battles behind Thursday</text>
+<text x="0" y="298" class="font-body" font-size="22" fill="#A0A0A0" font-weight="500">night in Arlington.</text></g>
+  <g transform="translate(60, 590)"><rect x="0" y="0" width="465" height="380" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" filter="url(#cardShadow)"/>
+    <rect x="0" y="0" width="465" height="6" rx="3" fill="#FED603" />
+    <g transform="translate(32, 45)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">ADJUSTMENT 01 • THE GROUND GAME</text>
+      <text x="0" y="80" class="font-heading-heavy" font-size="76" fill="#FFFFFF">4.4 YPC</text>
+      <text x="0" y="115" class="font-heading" font-size="18" fill="#FED603">TAMPA BAY'S RUSHING AVERAGE</text>
+      <line x1="0" y1="140" x2="400" y2="140" stroke="#282828" stroke-width="1" />
+      <text x="0" y="175" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">Dallas allows 4.8 a carry. Tampa Bay's defense</text>
+<text x="0" y="200" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">allows just 3.2.</text>
+      <rect x="0" y="235" width="400" height="50" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+      <circle cx="20" cy="260" r="5" fill="#10B981" />
+      <text x="36" y="265" class="font-mono" font-size="12" fill="#FFFFFF">DAL OFFENSE: 3.8 YPC • TB DEFENSE: 3.2</text>
+    </g>
+<rect x="495" y="0" width="465" height="380" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" filter="url(#cardShadow)"/>
+    <rect x="495" y="0" width="465" height="6" rx="3" fill="#0C92F1" />
+    <g transform="translate(527, 45)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1.5">ADJUSTMENT 02 • PRESSURE POINTS</text>
+      <text x="0" y="80" class="font-heading-heavy" font-size="76" fill="#FFFFFF">16 &amp; 4</text>
+      <text x="0" y="115" class="font-heading" font-size="18" fill="#0C92F1">TB SACKS ALLOWED &amp; DAL SACKS</text>
+      <line x1="0" y1="140" x2="400" y2="140" stroke="#282828" stroke-width="1" />
+      <text x="0" y="175" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">Tampa Bay has taken 16 sacks, the most in the NFL.</text>
+<text x="0" y="200" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">Dallas has 4.</text>
+      <rect x="0" y="235" width="400" height="50" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+      <circle cx="20" cy="260" r="5" fill="#EF4444" />
+      <text x="36" y="265" class="font-mono" font-size="11" fill="#FFFFFF">DAL'S 2 SACKS VS HOU WERE ITS FIRST SINCE WEEK 1</text>
+    </g></g>
+  <g transform="translate(60, 1010)">
+    <rect x="0" y="0" width="960" height="190" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">THE TACTICAL IMPERATIVE</text>
+      <text x="0" y="34" class="font-heading" font-size="22" fill="#FFFFFF">Protection and the run game set the script Thursday night.</text>
+      <text x="0" y="68" class="font-body" font-size="17" fill="#A0A0A0">A rookie quarterback behind the league's most-sacked line meets a Cowboys rush that has barely arrived.</text>
+<text x="0" y="91" class="font-body" font-size="17" fill="#A0A0A0">Dallas's front, not its offense, may be the swing.</text>
+      <circle cx="4" cy="131" r="4" fill="#FED603" /><text x="16" y="136" class="font-mono" font-size="13" fill="#666666">7-PAGE SLIDE DECK</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">SWIPE FOR THE BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</g></g>
+<g id="Slide_2" transform="translate(1200, 0)"><clipPath id="clip_slide_2"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_2)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="270" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 01 • THE EDGE</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">02 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="213" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE GROUND GAME EDGE</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE GROUND GAME EDGE:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">TAMPA BAY VS. DAL'S FRONT</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Tampa Bay's rushing average sits above what Dallas has allowed so far this season.</text>
+  </g>
+  <g transform="translate(60, 390)">
+    <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">YARDS PER CARRY: TAMPA BAY OFFENSE VS. DALLAS DEFENSE ALLOWED</text>
+      <g transform="translate(0, 35)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#FED603">BUCCANEERS RUSH OFFENSE, 2026</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="696" height="42" rx="8" fill="#FED603" />
+      <text x="682" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.4</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">97 CARRIES, 424 YARDS, 3 TD • NFL.COM</text>
+    </g>
+<g transform="translate(0, 150)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#0C92F1">COWBOYS RUSH DEFENSE, YARDS ALLOWED PER CARRY</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="760" height="42" rx="8" fill="#0C92F1" />
+      <text x="746" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.8</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">126 CARRIES, 601 YARDS ALLOWED, 4 TD • NFL.COM</text>
+    </g>
+    </g>
+  </g>
+  <g transform="translate(60, 720)">
+    <rect x="0" y="0" width="960" height="340" rx="16" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">WHAT THE NUMBERS SAY</text>
+      <text x="0" y="35" class="font-heading" font-size="24" fill="#FFFFFF">The Bucs run well, but Dallas's defense bleeds yards</text>
+      <g transform="translate(0, 60)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">THE EDGE</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Dallas has faced 126 carries, the 4th most in the</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">NFL, and allowed 33 rushing first downs.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Bucky Irving has 241 yards on 56 carries (4.3) and 1</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">TD, per NFL.com.</text>
+      </g>
+    </g>
+<g transform="translate(460, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">THE COUNTERPOINT</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Tampa Bay's defense allows only 3.2 yards a carry</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">and 1 rushing TD.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Dallas runs for 3.8 a carry, but has 6 rushing TDs.</text>
+      </g>
+    </g></g>
+      <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
+      <text x="20" y="258" class="font-mono" font-size="13" fill="#FFFFFF">WATCH: TAMPA BAY NEEDS 4.4+ YARDS PER CARRY TO MATCH ITS SEASON RATE</text>
+    </g>
+  </g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(32, 32)">
+      <text x="0" y="0" class="font-heading" font-size="18" fill="#FED603">THE OFFENSIVE MANDATE:</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Lean on Irving early. Rookie QB Jalon Daniels makes his second NFL start.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Tampa Bay has 3 passing TDs and 5 INTs on 126 attempts. Run success keeps the chains short.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE RUN-FIRST BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</g></g>
+<g id="Slide_3" transform="translate(2400, 0)"><clipPath id="clip_slide_3"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_3)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="314" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 01 • THE BLUEPRINT</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">03 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="231" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE TACTICAL BLUEPRINT</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE BLUEPRINT:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">RUN TO PROTECT THE ROOKIE</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">How Tampa Bay turns a ground-game edge into a manageable script for a first-year starter.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#FED603" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">STEP 1 • FRONT-LOAD THE RUN</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Irving gets the early-down carries</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Irving has 241 yards and a touchdown on 56 carries. Dallas gives up 4.8 a carry, 601 yards on 126 attempts.</text>
+      </g>
+    </g>
+<g transform="translate(0, 165)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#FED603" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">STEP 2 • USE THE QB'S LEGS</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Daniels adds a rushing dimension</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">In his first NFL start, Daniels threw for 148 yards and a TD and ran for 55 yards in a 17-14 loss to Green Bay.</text>
+      </g>
+    </g>
+<g transform="translate(0, 330)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#10B981" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981" letter-spacing="1">STEP 3 • WIN THIRD DOWN</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Short yardage keeps the offense on the field</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Tampa Bay has converted 19 of 55 third downs, 34.5%. Dallas's defense has allowed 23 of 44.</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 910)">
+    <rect x="0" y="0" width="960" height="290" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(40, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">THE NUMBERS BEHIND THE PLAN</text>
+      <g transform="translate(0, 45)"><g transform="translate(0, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">241</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#FED603">IRVING RUSH YDS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">On 56 carries, 1 TD this season</text>
+    </g><line x1="290" y1="10" x2="290" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(320, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">34.5%</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#10B981">TB THIRD-DOWN RATE</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">19-for-55 through Week 4</text>
+    </g><line x1="610" y1="10" x2="610" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(640, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">55</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">DANIELS RUSH YDS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">In his Week 4 first start</text>
+    </g></g>
+      <rect x="0" y="195" width="880" height="40" rx="8" fill="#1A1A1A" /><text x="20" y="221" class="font-mono" font-size="12" fill="#FED603">LIVE IN-GAME TRIGGER: TRACK TAMPA BAY'S FIRST-DOWN CALLS, RUN OR PASS?</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="13" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: ADJUSTMENT 2 - PRESSURE POINTS &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</g></g>
+<g id="Slide_4" transform="translate(3600, 0)"><clipPath id="clip_slide_4"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_4)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="332" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#0C92F1" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 02 • PRESSURE POINTS</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">04 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="231" height="34" rx="8" fill="rgba(12, 146, 241, 0.12)" stroke="#0C92F1" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">THE PROTECTION PROBLEM</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">PRESSURE POINTS:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#0C92F1">TAMPA'S LINE VS. DAL'S RUSH</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Tampa Bay has taken the most sacks in the NFL. Dallas has produced few.</text>
+  </g>
+  <g transform="translate(60, 390)">
+    <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">SACKS THROUGH WEEK 4: TB TAKEN VS. DAL ALLOWED</text>
+      <g transform="translate(0, 35)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#EF4444">TAMPA BAY OFFENSE: SACKS TAKEN</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="760" height="42" rx="8" fill="#EF4444" />
+      <text x="746" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">16</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">16 SACKS, 74 YARDS LOST ON 126 ATTEMPTS • NFL.COM</text>
+    </g>
+<g transform="translate(0, 150)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#0C92F1">DALLAS OFFENSE: SACKS TAKEN</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="288" height="42" rx="8" fill="#0C92F1" />
+      <text x="274" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">6</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">6 SACKS, 33 YARDS LOST ON 150 ATTEMPTS • NFL.COM</text>
+    </g>
+    </g>
+  </g>
+  <g transform="translate(60, 720)">
+    <rect x="0" y="0" width="960" height="340" rx="16" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE PRESSURE STORY</text>
+      <text x="0" y="35" class="font-heading" font-size="24" fill="#FFFFFF">Dallas needs its pass rush to show up</text>
+      <g transform="translate(0, 60)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">DALLAS'S PASS RUSH</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">The Cowboys have 4 team sacks, 28th in the NFL,</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">per NFL.com.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Their 2 sacks vs. Houston were their first since</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">Week 1.</text>
+      </g>
+    </g>
+<g transform="translate(460, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">TAMPA BAY'S LINE</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">The Bucs' last drive vs. Green Bay stalled on</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">protection issues, per the team site.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Daniels' first start came behind a line with 16</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">sacks allowed.</text>
+      </g>
+    </g></g>
+      <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
+      <text x="20" y="258" class="font-mono" font-size="13" fill="#FFFFFF">WATCH: DALLAS NEEDS 4 SACKS TO MATCH TAMPA BAY'S 4.0-PER-GAME ALLOWED RATE</text>
+    </g>
+  </g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(32, 32)">
+      <text x="0" y="0" class="font-heading" font-size="18" fill="#0C92F1">THE DEFENSIVE MANDATE:</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Dallas has no interceptions. Pressure on a rookie is the clearest path to the first one.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Tampa Bay has 5 INTs thrown on 126 attempts; Dallas has 0 defensive INTs, 32nd in the NFL.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE PASS-RUSH BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</g></g>
+<g id="Slide_5" transform="translate(4800, 0)"><clipPath id="clip_slide_5"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_5)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="314" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#0C92F1" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 02 • THE BLUEPRINT</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">05 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="240" height="34" rx="8" fill="rgba(12, 146, 241, 0.12)" stroke="#0C92F1" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">THE PASS-RUSH BLUEPRINT</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE BLUEPRINT:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#0C92F1">WIN THE PASS-RUSH WAR</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Three things to watch as Dallas tries to speed up a rookie and Tampa Bay tries to keep him upright.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#0C92F1" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">STEP 1 • CHECK THE OFFICIAL REPORTS</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Both teams carry injury questions</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Tampa Bay says S Antoine Winfield Jr. is out (rib). DAL G Tyler Smith was limited Monday (estimated) after opening</text>
+<text x="0" y="86" class="font-body" font-size="15" fill="#A0A0A0">his practice window.</text>
+      </g>
+    </g>
+<g transform="translate(0, 165)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#0C92F1" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">STEP 2 • QUICK THROWS VS. PRESSURE</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Fast, short throws blunt a slow rush</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Dallas has 4 sacks; Tampa Bay has taken 16. Quick game gives Daniels the ball out before the pocket collapses.</text>
+      </g>
+    </g>
+<g transform="translate(0, 330)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#10B981" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981" letter-spacing="1">STEP 3 • THE LAMB FACTOR</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Dallas's passing game feeds CeeDee Lamb</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Lamb leads the NFL in catches (37), targets (46) and yards (498), per the Cowboys. Pressure keeps the ball from him.</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 910)">
+    <rect x="0" y="0" width="960" height="290" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(40, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1.5">THE NUMBERS BEHIND THE PLAN</text>
+      <g transform="translate(0, 45)"><g transform="translate(0, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">16</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">TB SACKS TAKEN</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Most in the NFL through Week 4</text>
+    </g><line x1="290" y1="10" x2="290" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(320, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">4</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#10B981">DAL SACKS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">28th in the NFL, 0 INTs</text>
+    </g><line x1="610" y1="10" x2="610" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(640, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">498</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">LAMB REC YARDS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">37 catches, led the NFL</text>
+    </g></g>
+      <rect x="0" y="195" width="880" height="40" rx="8" fill="#1A1A1A" /><text x="20" y="221" class="font-mono" font-size="12" fill="#0C92F1">LIVE IN-GAME TRIGGER: TRACK SACKS AND PRESSURES QUARTER BY QUARTER</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="13" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: PREGAME VALIDATION SCORECARD &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</g></g>
+<g id="Slide_6" transform="translate(6000, 0)"><clipPath id="clip_slide_6"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_6)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="253" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">LIVE AUDIT • SCORECARD</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">06 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="249" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE VALIDATION SCORECARD</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">HOW TO SCORE THIS</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">REPORT LIVE ON TNF</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Track these 3 benchmarks during the broadcast to see who is winning the trenches.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#FED603" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603">METRIC 01 • PROTECTION</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Sacks of each quarterback</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmarks: Dallas 4+ sacks (TB allows 4.0 a game). TB 2 or fewer allowed (DAL allows 1.5 a game).</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#FED603">THE PASS RUSH IS WINNING</text>
+      </g>
+    </g>
+<g transform="translate(0, 225)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#0C92F1" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1">METRIC 02 • THE GROUND GAME</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Yards per carry vs. season rates</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmarks: TB 4.4 or better (DAL allows 4.8); DAL 3.8 or better (TB allows 3.2).</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#10B981">THE RUN GAME BEATS THE FRONT</text>
+      </g>
+    </g>
+<g transform="translate(0, 450)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#10B981" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981">METRIC 03 • THIRD DOWN</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Third-down conversions</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmarks: DAL 5-for-10 (51% season); TB 4-for-12 (33%, 34.5% season).</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#10B981">DRIVES ARE STAYING ALIVE</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="140" rx="16" fill="#121212" stroke="#FED603" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">SAVE THIS CAROUSEL FOR KICKOFF</text>
+      <text x="0" y="34" class="font-heading" font-size="20" fill="#FFFFFF">Track these 3 benchmarks during the Prime Video broadcast.</text>
+      <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">We will post our halftime read on X and LinkedIn.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: JOIN THE DISCUSSION &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</g></g>
+<g id="Slide_7" transform="translate(7200, 0)"><clipPath id="clip_slide_7"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_7)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="200" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">SLAM SPORTS AI</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">07 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="960" height="420" rx="20" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" filter="url(#cardShadow)"/>
+    <circle cx="800" cy="100" r="180" fill="#FED603" opacity="0.08" filter="blur(60px)"/>
+    <circle cx="200" cy="300" r="180" fill="#0C92F1" opacity="0.08" filter="blur(60px)"/>
+    <g transform="translate(60, 60)">
+      <rect x="0" y="0" width="22" height="48" rx="4" fill="#FED603" />
+      <rect x="30" y="0" width="10" height="48" rx="4" fill="#0C92F1" />
+      <text x="56" y="35" class="font-heading-heavy" font-size="34" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+      <text x="0" y="115" class="font-mono" font-size="14" fill="#FED603" letter-spacing="2">AI-POWERED SPORTS INTELLIGENCE</text>
+      <text x="0" y="180" class="font-heading-heavy" font-size="46" fill="#FFFFFF" letter-spacing="-1">REAL SCHEME. REAL DATA.</text>
+      <text x="0" y="235" class="font-heading-heavy" font-size="46" fill="#FED603" letter-spacing="-1">ZERO HOT TAKES.</text>
+      <text x="0" y="285" class="font-body" font-size="17" fill="#A0A0A0">We replace narrative noise with schematic charting and film verification.</text>
+    </g>
+  </g>
+  <g transform="translate(60, 610)"><rect x="0" y="0" width="300" height="220" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(26, 32)">
+      <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">PILLAR 01</text>
+      <text x="0" y="36" class="font-heading" font-size="18" fill="#FFFFFF">LIVE TACTICAL</text>
+      <text x="0" y="60" class="font-heading" font-size="18" fill="#FFFFFF">CHARTING</text>
+      <text x="0" y="95" class="font-body" font-size="14" fill="#A0A0A0">Real-time tracking of box counts,</text>
+<text x="0" y="115" class="font-body" font-size="14" fill="#A0A0A0">coverage shells, and pressure</text>
+<text x="0" y="135" class="font-body" font-size="14" fill="#A0A0A0">rates.</text>
+    </g>
+<rect x="330" y="0" width="300" height="220" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(356, 32)">
+      <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">PILLAR 02</text>
+      <text x="0" y="36" class="font-heading" font-size="18" fill="#FFFFFF">SECOND-HALF</text>
+      <text x="0" y="60" class="font-heading" font-size="18" fill="#FFFFFF">ADJUSTMENTS</text>
+      <text x="0" y="95" class="font-body" font-size="14" fill="#A0A0A0">Coordinator adjustments modeled</text>
+<text x="0" y="115" class="font-body" font-size="14" fill="#A0A0A0">during the halftime window.</text>
+    </g>
+<rect x="660" y="0" width="300" height="220" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(686, 32)">
+      <text x="0" y="0" class="font-mono" font-size="12" fill="#10B981">PILLAR 03</text>
+      <text x="0" y="36" class="font-heading" font-size="18" fill="#FFFFFF">ACCOUNTABLE</text>
+      <text x="0" y="60" class="font-heading" font-size="18" fill="#FFFFFF">FILM AUDITS</text>
+      <text x="0" y="95" class="font-body" font-size="14" fill="#A0A0A0">Every pregame projection is</text>
+<text x="0" y="115" class="font-body" font-size="14" fill="#A0A0A0">checked against the game film</text>
+<text x="0" y="135" class="font-body" font-size="14" fill="#A0A0A0">afterward.</text>
+    </g></g>
+  <g transform="translate(60, 860)">
+    <rect x="0" y="0" width="960" height="240" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(40, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">JOIN THE DISCUSSION</text>
+      <text x="0" y="34" class="font-heading" font-size="22" fill="#FFFFFF">Does Dallas get home on a rookie QB, or does Tampa Bay run its way to a</text>
+<text x="0" y="62" class="font-heading" font-size="22" fill="#FFFFFF">first win?</text>
+      <text x="0" y="96" class="font-body" font-size="16" fill="#A0A0A0">Drop your score prediction and tell us which adjustment decides the game.</text>
+      <g transform="translate(0, 127)">
+        <rect x="0" y="0" width="410" height="44" rx="8" fill="#FED603" />
+        <text x="205" y="27" class="font-heading" font-size="14" fill="#000000" text-anchor="middle">FOLLOW @SLAMSPORTSAI</text>
+        <rect x="430" y="0" width="450" height="44" rx="8" fill="#1A1A1A" stroke="#383838" stroke-width="1" />
+        <text x="655" y="27" class="font-mono" font-size="13" fill="#FFFFFF" text-anchor="middle">VISIT WWW.SLAMSPORTS.AI</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(60, 1130)">
+    <rect x="0" y="0" width="960" height="90" rx="12" fill="#0A0A0A" stroke="#282828" stroke-width="1" />
+    <g transform="translate(36, 34)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FFFFFF">INSTAGRAM: <tspan fill="#FED603">@SLAMSPORTSAI</tspan>   •   LINKEDIN: <tspan fill="#0C92F1">SLAM SPORTS AI</tspan></text>
+      <text x="0" y="28" class="font-body" font-size="13" fill="#666666">© 2026 SLAM Sports AI Inc. All rights reserved.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">SAVE &amp; SHARE THIS REPORT</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</g></g></svg>

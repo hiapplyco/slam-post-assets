@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="270" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 01 • THE EDGE</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">02 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="213" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE GROUND GAME EDGE</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE GROUND GAME EDGE:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">TAMPA BAY VS. DAL'S FRONT</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Tampa Bay's rushing average sits above what Dallas has allowed so far this season.</text>
+  </g>
+  <g transform="translate(60, 390)">
+    <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">YARDS PER CARRY: TAMPA BAY OFFENSE VS. DALLAS DEFENSE ALLOWED</text>
+      <g transform="translate(0, 35)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#FED603">BUCCANEERS RUSH OFFENSE, 2026</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="696" height="42" rx="8" fill="#FED603" />
+      <text x="682" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.4</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">97 CARRIES, 424 YARDS, 3 TD • NFL.COM</text>
+    </g>
+<g transform="translate(0, 150)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#0C92F1">COWBOYS RUSH DEFENSE, YARDS ALLOWED PER CARRY</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="760" height="42" rx="8" fill="#0C92F1" />
+      <text x="746" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.8</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">126 CARRIES, 601 YARDS ALLOWED, 4 TD • NFL.COM</text>
+    </g>
+    </g>
+  </g>
+  <g transform="translate(60, 720)">
+    <rect x="0" y="0" width="960" height="340" rx="16" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">WHAT THE NUMBERS SAY</text>
+      <text x="0" y="35" class="font-heading" font-size="24" fill="#FFFFFF">The Bucs run well, but Dallas's defense bleeds yards</text>
+      <g transform="translate(0, 60)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">THE EDGE</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Dallas has faced 126 carries, the 4th most in the</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">NFL, and allowed 33 rushing first downs.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Bucky Irving has 241 yards on 56 carries (4.3) and 1</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">TD, per NFL.com.</text>
+      </g>
+    </g>
+<g transform="translate(460, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">THE COUNTERPOINT</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Tampa Bay's defense allows only 3.2 yards a carry</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">and 1 rushing TD.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Dallas runs for 3.8 a carry, but has 6 rushing TDs.</text>
+      </g>
+    </g></g>
+      <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
+      <text x="20" y="258" class="font-mono" font-size="13" fill="#FFFFFF">WATCH: TAMPA BAY NEEDS 4.4+ YARDS PER CARRY TO MATCH ITS SEASON RATE</text>
+    </g>
+  </g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(32, 32)">
+      <text x="0" y="0" class="font-heading" font-size="18" fill="#FED603">THE OFFENSIVE MANDATE:</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Lean on Irving early. Rookie QB Jalon Daniels makes his second NFL start.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Tampa Bay has 3 passing TDs and 5 INTs on 126 attempts. Run success keeps the chains short.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE RUN-FIRST BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, DALLASCOWBOYS.COM, BUCCANEERS.COM • THROUGH WEEK 4</text>
+  </g>
+</svg>
