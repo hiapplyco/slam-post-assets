@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="288" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#0C92F1" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 02 • THE RESULT</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">04 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="204" height="34" rx="8" fill="rgba(12, 146, 241, 0.12)" stroke="#0C92F1" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">THE PASS RUSH: MISS</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">PRESSURE POINTS:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#0C92F1">WHAT HAPPENED</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">We expected Dallas to hit Daniels often. It got one sack, and Tampa Bay's line held up.</text>
+  </g>
+  <g transform="translate(60, 390)">
+    <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">TAMPA BAY SACKS TAKEN: WEEK 5 VS. WEEKS 1-4 PER GAME</text>
+      <g transform="translate(0, 35)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#0C92F1">TB SACKS TAKEN, WEEK 5</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="192" height="42" rx="8" fill="#0C92F1" />
+      <text x="178" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">1</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">1 SACK, 11 YARDS, 25 PASS ATTEMPTS • BUCCANEERS.COM</text>
+    </g>
+<g transform="translate(0, 150)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#EF4444">TB SACKS TAKEN PER GAME, WEEKS 1-4</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="760" height="42" rx="8" fill="#EF4444" />
+      <text x="746" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.0</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">16 SACKS IN 4 GAMES • NFL.COM</text>
+    </g>
+    </g>
+  </g>
+  <g transform="translate(60, 720)">
+    <rect x="0" y="0" width="960" height="340" rx="16" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE PRESSURE STORY</text>
+      <text x="0" y="35" class="font-heading" font-size="24" fill="#FFFFFF">The blitz mattered more than the sacks</text>
+      <g transform="translate(0, 60)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">DALLAS'S PASS RUSH</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">One Dallas sack, 11 yards, in the third quarter.</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Our benchmark was 4.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">A holding flag on Bland also erased a third-down</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">sack on the first drive.</text>
+      </g>
+    </g>
+<g transform="translate(460, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">TAMPA BAY'S BLITZ</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Prescott was 2 of 13 against the blitz through</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">three quarters.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">He finished 9 of 20. Tykee Smith had 5 pressures on 7</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">blitzes, per ESPN.</text>
+      </g>
+    </g></g>
+      <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
+      <text x="20" y="258" class="font-mono" font-size="13" fill="#FFFFFF">VERDICT: HALF MISS. DALLAS GOT 1 SACK, NOT 4, BUT TB ALLOWED JUST 1</text>
+    </g>
+  </g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(32, 32)">
+      <text x="0" y="0" class="font-heading" font-size="18" fill="#0C92F1">THE MISS:</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">We named Dallas's pass rush the swing factor. Tampa Bay's blitz was the swing factor.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Prescott threw 2 INTs and Turpin lost a fumble. Dallas had 3 turnovers and 0 takeaways.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE PLAY-BY-PLAY &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, BUCCANEERS.COM, DALLASCOWBOYS.COM • WEEK 5 FINAL</text>
+  </g>
+</svg>

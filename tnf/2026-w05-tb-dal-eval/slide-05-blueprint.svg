@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="341" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#0C92F1" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 02 • THE PLAY-BY-PLAY</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">05 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="213" height="34" rx="8" fill="rgba(12, 146, 241, 0.12)" stroke="#0C92F1" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">THE PRESSURE ON FILM</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE FILM:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#0C92F1">WHERE WE MISSED</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Three sequences that show why the pass-rush edge never showed up for Dallas.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#0C92F1" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">STEP 1 • THE SACK THAT WASN'T</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">A holding flag erased Dallas's best chance</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">On the first drive, Dallas sacked Daniels on third-and-5. A holding call on DaRon Bland gave Tampa Bay a new set of</text>
+<text x="0" y="86" class="font-body" font-size="15" fill="#A0A0A0">downs.</text>
+      </g>
+    </g>
+<g transform="translate(0, 165)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#0C92F1" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">STEP 2 • BLITZ BEATS THE QUICK GAME</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Tampa Bay brought pressure, Dallas stalled</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">OLB David Walker's pressure forced an errant throw before halftime, and a tipped pass became Yaya Diaby's first</text>
+<text x="0" y="86" class="font-body" font-size="15" fill="#A0A0A0">career interception.</text>
+      </g>
+    </g>
+<g transform="translate(0, 330)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#10B981" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981" letter-spacing="1">STEP 3 • THE TURNOVER SWING</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Two turnovers built the lead; a third sealed it</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Diaby's INT and Turpin's fumble led to 10 points. Anzalone's late pick ended it. DAL 3 turnovers, TB 0.</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 910)">
+    <rect x="0" y="0" width="960" height="290" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(40, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1.5">THE NUMBERS BEHIND THE PLAN</text>
+      <g transform="translate(0, 45)"><g transform="translate(0, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">1</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">DAL SACKS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Benchmark was 4</text>
+    </g><line x1="290" y1="10" x2="290" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(320, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">2 / 13</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#10B981">PRESCOTT VS. BLITZ</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Through three quarters</text>
+    </g><line x1="610" y1="10" x2="610" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(640, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">3 / 0</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">DAL / TB GIVEAWAYS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">2 INTs and 1 fumble for DAL</text>
+    </g></g>
+      <rect x="0" y="195" width="880" height="40" rx="8" fill="#1A1A1A" /><text x="20" y="221" class="font-mono" font-size="12" fill="#0C92F1">WHAT IT MEANS: PRESSURE WON THE GAME EVEN WITHOUT SACKS</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE FINAL SCORECARD &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, BUCCANEERS.COM, DALLASCOWBOYS.COM • WEEK 5 FINAL</text>
+  </g>
+</svg>

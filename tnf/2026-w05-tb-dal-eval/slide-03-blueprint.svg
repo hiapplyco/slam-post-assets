@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="341" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 01 • THE PLAY-BY-PLAY</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">03 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="213" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE RUN GAME ON FILM</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE FILM:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">HOW THE RUN GAME WON</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Three sequences that show the ground game doing what our pregame blueprint said it should.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#FED603" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">STEP 1 • FRONT-LOAD THE RUN</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">A 15-play, 73-yard drive answers Dallas's opener</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">After Dallas scored on its first drive, Tampa Bay held the ball 10:58 and tied it on Irving's 5-yard catch.</text>
+      </g>
+    </g>
+<g transform="translate(0, 165)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#FED603" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">STEP 2 • THE SECOND-HALF SCRIPT</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Irving's 72-yard run flips the game</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Two plays, 86 yards, 1:00. Egbuka's 14-yard run put Tampa Bay ahead 14-10 and began a 17-point quarter.</text>
+      </g>
+    </g>
+<g transform="translate(0, 330)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#10B981" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981" letter-spacing="1">STEP 3 • CLOSE IT OUT</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Runs finish it after the Anzalone interception</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">With 1:22 left, Irving broke a long run on second down so Tampa Bay could kneel out the clock.</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 910)">
+    <rect x="0" y="0" width="960" height="290" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(40, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">THE NUMBERS BEHIND THE PLAN</text>
+      <g transform="translate(0, 45)"><g transform="translate(0, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">241</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#FED603">TB RUSH YARDS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Season high, 39 carries</text>
+    </g><line x1="290" y1="10" x2="290" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(320, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">7-13</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#10B981">TB THIRD DOWNS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Benchmark was 4-for-12</text>
+    </g><line x1="610" y1="10" x2="610" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(640, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">23</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">DANIELS RUSH YDS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">On 7 carries, 0 turnovers</text>
+    </g></g>
+      <rect x="0" y="195" width="880" height="40" rx="8" fill="#1A1A1A" /><text x="20" y="221" class="font-mono" font-size="12" fill="#FED603">WHAT IT MEANS: SHORT YARDAGE KEPT A ROOKIE OUT OF PASSING DOWNS</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">TB @ DAL • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="13" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: ADJUSTMENT 2 - PRESSURE POINTS &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, BUCCANEERS.COM, DALLASCOWBOYS.COM • WEEK 5 FINAL</text>
+  </g>
+</svg>
