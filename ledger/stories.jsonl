@@ -182,3 +182,6 @@
 {"brand": "ai-signal", "date": "2026-10-10", "entities": ["nace ai"], "lane": "ai", "story_kind": "model-release", "subject": "drex 1 5", "urls": []}
 {"brand": "slam", "date": "2026-10-10", "entities": ["travis vlantes"], "lane": "sports-tech", "story_kind": "performance-metric", "subject": "catapult vector pod at texas", "urls": []}
 {"brand": "slam", "date": "2026-10-10", "entities": ["nash subotic", "robert kuzmic", "mura"], "lane": "investment", "story_kind": "acquisition", "subject": "nash subotic stake in mura", "urls": []}
+{"brand": "ai-signal", "date": "2026-10-10", "entities": [], "lane": "ai", "story_kind": null, "subject": null, "urls": ["https://marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text"]}
+{"brand": "slam", "date": "2026-10-10", "entities": ["travis vlantes"], "lane": "sports-tech", "story_kind": "performance-metric", "subject": "catapult vector pod at texas", "urls": ["https://cbsaustin.com/news/tech-this-out/the-vest-that-gives-texas-football-an-edge"]}
+{"brand": "slam", "date": "2026-10-10", "entities": ["nash subotic", "robert kuzmic", "mura"], "lane": "investment", "story_kind": "acquisition", "subject": "nash subotic stake in mura", "urls": ["https://en.nogomania.com/read/I-m-not-here-to-make-money-American-investor-Nash-Subotic-outlines-Mura-revival-plan"]}
