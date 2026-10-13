@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8280 1350" width="8280" height="1350"><defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs><g id="Slide_1" transform="translate(0, 0)"><clipPath id="clip_slide_1"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_1)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  <circle cx="900" cy="200" r="300" fill="#FED603" opacity="0.04" filter="blur(80px)" />
+  <circle cx="150" cy="900" r="350" fill="#0C92F1" opacity="0.05" filter="blur(80px)" />
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="235" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">PREGAME INTELLIGENCE</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">01 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="256" height="38" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="18" y="24" class="font-mono" font-size="14" fill="#FED603" letter-spacing="1">WEEK 6 • TNF FILM AUDIT</text>
+  </g>
+  <g transform="translate(60, 260)"><text x="0" y="55" class="font-heading-heavy" font-size="58" fill="#FFFFFF" letter-spacing="-1">SEAHAWKS @ BRONCOS:</text>
+<text x="0" y="130" class="font-heading-heavy" font-size="64" fill="#FED603" letter-spacing="-1">THE 2 PREGAME</text>
+<text x="0" y="205" class="font-heading-heavy" font-size="64" fill="#FFFFFF" letter-spacing="-1">ADJUSTMENTS</text>
+<text x="0" y="270" class="font-body" font-size="22" fill="#A0A0A0" font-weight="500">A schematic breakdown of the trench battles behind Thursday night in Denver.</text></g>
+  <g transform="translate(60, 590)"><rect x="0" y="0" width="465" height="380" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" filter="url(#cardShadow)"/>
+    <rect x="0" y="0" width="465" height="6" rx="3" fill="#FED603" />
+    <g transform="translate(32, 45)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">ADJUSTMENT 01 • PRESSURE POINTS</text>
+      <text x="0" y="80" class="font-heading-heavy" font-size="76" fill="#FFFFFF">13 &amp; 11</text>
+      <text x="0" y="115" class="font-heading" font-size="18" fill="#FED603">DEN SACKS &amp; SEA SACKS ALLOWED</text>
+      <line x1="0" y1="140" x2="400" y2="140" stroke="#282828" stroke-width="1" />
+      <text x="0" y="175" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">Denver's defense has 13 sacks. Seattle's offense</text>
+<text x="0" y="200" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">has allowed 11, five of them Sunday.</text>
+      <rect x="0" y="235" width="400" height="50" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+      <circle cx="20" cy="260" r="5" fill="#EF4444" />
+      <text x="36" y="265" class="font-mono" font-size="12" fill="#FFFFFF">SF SACKED DARNOLD 4 TIMES IN THE FIRST HALF</text>
+    </g>
+<rect x="495" y="0" width="465" height="380" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" filter="url(#cardShadow)"/>
+    <rect x="495" y="0" width="465" height="6" rx="3" fill="#0C92F1" />
+    <g transform="translate(527, 45)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1.5">ADJUSTMENT 02 • THE GROUND GAME</text>
+      <text x="0" y="80" class="font-heading-heavy" font-size="76" fill="#FFFFFF">4.7 YPC</text>
+      <text x="0" y="115" class="font-heading" font-size="18" fill="#0C92F1">DENVER RUN D ALLOWS PER CARRY</text>
+      <line x1="0" y1="140" x2="400" y2="140" stroke="#282828" stroke-width="1" />
+      <text x="0" y="175" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">Seattle runs for 3.8 a carry. Denver has allowed</text>
+<text x="0" y="200" class="font-body" font-size="16" fill="#A0A0A0" font-weight="500">726 yards on 154 carries.</text>
+      <rect x="0" y="235" width="400" height="50" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+      <circle cx="20" cy="260" r="5" fill="#10B981" />
+      <text x="36" y="265" class="font-mono" font-size="12" fill="#FFFFFF">DEN HAS ALLOWED SEVEN RUNS OF 20+ YARDS</text>
+    </g></g>
+  <g transform="translate(60, 1010)">
+    <rect x="0" y="0" width="960" height="190" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">THE TACTICAL IMPERATIVE</text>
+      <text x="0" y="34" class="font-heading" font-size="22" fill="#FFFFFF">Protection and ground game decide Thursday night.</text>
+      <text x="0" y="68" class="font-body" font-size="17" fill="#A0A0A0">Seattle's line meets a Denver rush that has 13 sacks, and Seattle's backs meet a run defense giving up</text>
+<text x="0" y="91" class="font-body" font-size="17" fill="#A0A0A0">4.7 a carry. Both are 3-2.</text>
+      <circle cx="4" cy="131" r="4" fill="#FED603" /><text x="16" y="136" class="font-mono" font-size="13" fill="#666666">7-PAGE SLIDE DECK</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">SEA @ DEN • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">SWIPE FOR THE BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, AP, TEAM SITES • THROUGH WEEK 5</text>
+  </g>
+</g></g>
+<g id="Slide_2" transform="translate(1200, 0)"><clipPath id="clip_slide_2"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_2)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="270" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 01 • THE EDGE</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">02 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="186" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE PRESSURE EDGE</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">PRESSURE POINTS:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">DENVER RUSH VS. SEA LINE</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Denver's defense has 13 sacks while Seattle's offense has allowed 11 through five games.</text>
+  </g>
+  <g transform="translate(60, 390)">
+    <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">SACKS THROUGH WEEK 5: DENVER DEFENSE VS. SEATTLE OFFENSE ALLOWED</text>
+      <g transform="translate(0, 35)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#FED603">BRONCOS DEFENSE, SACKS</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="736" height="42" rx="8" fill="#FED603" />
+      <text x="722" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">13</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">THROUGH 5 GAMES • NFL.COM</text>
+    </g>
+<g transform="translate(0, 150)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#0C92F1">SEAHAWKS OFFENSE, SACKS ALLOWED</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="624" height="42" rx="8" fill="#0C92F1" />
+      <text x="610" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">11</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">THROUGH 5 GAMES • NFL.COM</text>
+    </g>
+    </g>
+  </g>
+  <g transform="translate(60, 720)">
+    <rect x="0" y="0" width="960" height="340" rx="16" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">WHAT THE NUMBERS SAY</text>
+      <text x="0" y="35" class="font-heading" font-size="24" fill="#FFFFFF">San Francisco got to Darnold five times Sunday</text>
+      <g transform="translate(0, 60)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">THE TREND</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Four of the five sacks came in the first half of</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Seattle's 32-29 loss.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Darnold: 18 of 29, 195 yards, 1 TD, 2 INT. Denver had</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">5 sacks at the Chargers.</text>
+      </g>
+    </g>
+<g transform="translate(460, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">THE COUNTERPOINT</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Denver's offense has allowed only 6 sacks in five</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">games.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Seattle's defense has 14 sacks and 7 interceptions.</text>
+      </g>
+    </g></g>
+      <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
+      <text x="20" y="258" class="font-mono" font-size="13" fill="#FFFFFF">WATCH: SEATTLE HAS ALLOWED 11 SACKS; DENVER'S DEFENSE HAS 13</text>
+    </g>
+  </g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(32, 32)">
+      <text x="0" y="0" class="font-heading" font-size="18" fill="#FED603">THE OFFENSIVE MANDATE:</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Keep Darnold clean and the ball safe. Four turnovers gave San Francisco its first 21 points.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Denver forced three takeaways and five sacks against the Chargers in Week 5.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">SEA @ DEN • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE PROTECTION BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, AP, TEAM SITES • THROUGH WEEK 5</text>
+  </g>
+</g></g>
+<g id="Slide_3" transform="translate(2400, 0)"><clipPath id="clip_slide_3"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_3)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="314" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 01 • THE BLUEPRINT</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">03 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="231" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE TACTICAL BLUEPRINT</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE BLUEPRINT:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">PROTECT THE QUARTERBACK</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">How Seattle answers a Denver front that finished Week 5 with five sacks.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#FED603" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">STEP 1 • SURVIVE THE FIRST HALF</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Early pressure is where San Francisco won</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">The 49ers had four sacks of Darnold in the first 27 minutes, and Seattle settled for a field goal on the drive those</text>
+<text x="0" y="86" class="font-body" font-size="15" fill="#A0A0A0">sacks ended.</text>
+      </g>
+    </g>
+<g transform="translate(0, 165)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#FED603" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">STEP 2 • STOP THE STRIP-SACK</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Denver turns sacks into short fields</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Zach Allen's strip-sack of Herbert set up the go-ahead field goal at the Chargers, a play that needed no coverage</text>
+<text x="0" y="86" class="font-body" font-size="15" fill="#A0A0A0">help.</text>
+      </g>
+    </g>
+<g transform="translate(0, 330)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#10B981" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981" letter-spacing="1">STEP 3 • USE SEATTLE'S OWN EDGE</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Seattle's defense also rushes the passer</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Seattle has 14 sacks and 7 interceptions on defense, while Denver's offense has allowed 6 sacks.</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 910)">
+    <rect x="0" y="0" width="960" height="290" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(40, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">THE NUMBERS BEHIND THE PLAN</text>
+      <g transform="translate(0, 45)"><g transform="translate(0, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">13</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#FED603">DEN SACKS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Defense, through Week 5</text>
+    </g><line x1="290" y1="10" x2="290" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(320, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">11</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#10B981">SEA SACKS ALLOWED</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Offense, through Week 5</text>
+    </g><line x1="610" y1="10" x2="610" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(640, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">5</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">SACKS VS. SF</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Darnold, Week 5 loss</text>
+    </g></g>
+      <rect x="0" y="195" width="880" height="40" rx="8" fill="#1A1A1A" /><text x="20" y="221" class="font-mono" font-size="12" fill="#FED603">LIVE IN-GAME TRIGGER: COUNT SEATTLE'S SACKS ALLOWED BEFORE HALFTIME</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">SEA @ DEN • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: ADJUSTMENT 2 - THE GROUND GAME &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, AP, TEAM SITES • THROUGH WEEK 5</text>
+  </g>
+</g></g>
+<g id="Slide_4" transform="translate(3600, 0)"><clipPath id="clip_slide_4"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_4)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="332" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#0C92F1" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 02 • THE GROUND GAME</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">04 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="213" height="34" rx="8" fill="rgba(12, 146, 241, 0.12)" stroke="#0C92F1" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">THE RUN-DEFENSE TEST</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE GROUND GAME:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#0C92F1">SEATTLE VS. DENVER'S FRONT</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Denver allows 4.7 yards a carry, a full yard more than Seattle averages.</text>
+  </g>
+  <g transform="translate(60, 390)">
+    <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">YARDS PER CARRY: SEATTLE OFFENSE VS. DENVER DEFENSE ALLOWED</text>
+      <g transform="translate(0, 35)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#0C92F1">SEAHAWKS RUSH OFFENSE, YARDS PER CARRY</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="640" height="42" rx="8" fill="#0C92F1" />
+      <text x="626" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">3.8</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">139 CARRIES, 530 YARDS • NFL.COM</text>
+    </g>
+<g transform="translate(0, 150)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#EF4444">BRONCOS RUSH DEFENSE, YARDS ALLOWED PER CARRY</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="760" height="42" rx="8" fill="#EF4444" />
+      <text x="746" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.7</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">154 CARRIES, 726 YARDS ALLOWED • NFL.COM</text>
+    </g>
+    </g>
+  </g>
+  <g transform="translate(60, 720)">
+    <rect x="0" y="0" width="960" height="340" rx="16" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">WHAT THE NUMBERS SAY</text>
+      <text x="0" y="35" class="font-heading" font-size="24" fill="#FFFFFF">Denver has allowed seven runs of 20+ yards</text>
+      <g transform="translate(0, 60)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">THE TREND</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Denver's run defense has also given up five</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">rushing touchdowns.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Chargers back Kimani Vidal broke numerous tackles</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">on a 42-yard score Sunday.</text>
+      </g>
+    </g>
+<g transform="translate(460, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#EF4444">THE COUNTERPOINT</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Seattle's rushing attempts have produced 5</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">fumbles.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Wilson and Holani each lost one Sunday, and both led</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">to San Francisco touchdowns.</text>
+      </g>
+    </g></g>
+      <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
+      <text x="20" y="258" class="font-mono" font-size="13" fill="#FFFFFF">WATCH: SEATTLE NEEDS 4.7+ YARDS PER CARRY TO BEAT DENVER'S ALLOWED RATE</text>
+    </g>
+  </g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(32, 32)">
+      <text x="0" y="0" class="font-heading" font-size="18" fill="#0C92F1">THE OFFENSIVE MANDATE:</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Run to stay ahead of the chains, and hold on to the football.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Denver's own run game averages 3.6 a carry against a Seattle front allowing 3.7.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">SEA @ DEN • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE RUN-GAME BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, AP, TEAM SITES • THROUGH WEEK 5</text>
+  </g>
+</g></g>
+<g id="Slide_5" transform="translate(4800, 0)"><clipPath id="clip_slide_5"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_5)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="314" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#0C92F1" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 02 • THE BLUEPRINT</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">05 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="231" height="34" rx="8" fill="rgba(12, 146, 241, 0.12)" stroke="#0C92F1" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">THE RUN-GAME BLUEPRINT</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE BLUEPRINT:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#0C92F1">WIN THE RUN BATTLE</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Three things to watch as both ground games try to find room.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#0C92F1" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">STEP 1 • PROTECT THE BALL</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Seattle's backs cannot put it on the ground</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Wilson's fumble at the Seattle 11 and Holani's in the end zone each led to a San Francisco touchdown.</text>
+      </g>
+    </g>
+<g transform="translate(0, 165)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#0C92F1" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">STEP 2 • FINISH THE TACKLE</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Denver has to tackle in space</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Vidal's 42-yard touchdown came one play after a Denver fumble and went through numerous tackles.</text>
+      </g>
+    </g>
+<g transform="translate(0, 330)">
+      <rect x="0" y="0" width="960" height="145" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="8" height="145" rx="4" fill="#10B981" />
+      <g transform="translate(36, 32)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981" letter-spacing="1">STEP 3 • DENVER'S RUN GAME</text>
+        <text x="0" y="32" class="font-heading" font-size="20" fill="#FFFFFF">Dobbins carried 18 times for 68 yards</text>
+        <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">Denver had only 57 rushing yards through three quarters at the Chargers, finishing with 106 on 29 carries.</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 910)">
+    <rect x="0" y="0" width="960" height="290" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(40, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1.5">THE NUMBERS BEHIND THE PLAN</text>
+      <g transform="translate(0, 45)"><g transform="translate(0, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">4.7</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">DEN YPC ALLOWED</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">154 carries, 726 yards</text>
+    </g><line x1="290" y1="10" x2="290" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(320, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">7</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#10B981">20+ YD RUNS ALLOWED</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">Denver defense, 5 games</text>
+    </g><line x1="610" y1="10" x2="610" y2="150" stroke="#282828" stroke-width="1" />
+<g transform="translate(640, 0)">
+      <text x="0" y="50" class="font-heading-heavy" font-size="56" fill="#FFFFFF">106</text>
+      <text x="0" y="85" class="font-mono" font-size="13" fill="#0C92F1">DEN RUSH YDS</text>
+      <text x="0" y="112" class="font-body" font-size="14" fill="#A0A0A0">On 29 carries at LAC</text>
+    </g></g>
+      <rect x="0" y="195" width="880" height="40" rx="8" fill="#1A1A1A" /><text x="20" y="221" class="font-mono" font-size="12" fill="#0C92F1">LIVE IN-GAME TRIGGER: TRACK SEATTLE'S RUSHING AVERAGE AFTER EACH QUARTER</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">SEA @ DEN • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="13" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: PREGAME VALIDATION SCORECARD &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, AP, TEAM SITES • THROUGH WEEK 5</text>
+  </g>
+</g></g>
+<g id="Slide_6" transform="translate(6000, 0)"><clipPath id="clip_slide_6"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_6)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="253" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">LIVE AUDIT • SCORECARD</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">06 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="249" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE VALIDATION SCORECARD</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">HOW TO SCORE THIS</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">REPORT LIVE ON TNF</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Track these 3 benchmarks during the broadcast to see who is winning the trenches.</text>
+  </g>
+  <g transform="translate(60, 390)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#FED603" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603">METRIC 01 • PROTECTION</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Sacks allowed by each offense</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmark: SEA fewer than 3, DEN fewer than 2. Season: SEA 11 in 5 games, DEN 6 in 5.</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#FED603">THE OFFENSIVE LINE IS WINNING</text>
+      </g>
+    </g>
+<g transform="translate(0, 225)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#0C92F1" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1">METRIC 02 • THE GROUND GAME</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Yards per carry vs. season allowed rate</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmarks: SEA 4.7 or better (DEN allows 4.7); DEN 3.7 or better (SEA allows 3.7).</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#10B981">THE RUN GAME BEATS THE FRONT</text>
+      </g>
+    </g>
+<g transform="translate(0, 450)">
+      <rect x="0" y="0" width="960" height="200" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+      <rect x="0" y="0" width="10" height="200" rx="5" fill="#10B981" />
+      <g transform="translate(40, 36)">
+        <text x="0" y="0" class="font-mono" font-size="13" fill="#10B981">METRIC 03 • THIRD DOWN</text>
+        <text x="0" y="34" class="font-heading" font-size="24" fill="#FFFFFF">Third-down conversion rate</text>
+        <text x="0" y="68" class="font-body" font-size="15" fill="#A0A0A0">Benchmarks: SEA 45% (DEN allows 45.2%); DEN 30% (SEA allows 29.4%).</text>
+        <rect x="0" y="105" width="880" height="42" rx="8" fill="#121212" stroke="#282828" stroke-width="1" />
+        <text x="20" y="132" class="font-mono" font-size="13" fill="#FFFFFF">IF IT HOLDS: </text>
+        <text x="124" y="132" class="font-mono" font-size="13" fill="#10B981">DRIVES ARE STAYING ALIVE</text>
+      </g>
+    </g></g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="140" rx="16" fill="#121212" stroke="#FED603" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">SAVE THIS CAROUSEL FOR KICKOFF</text>
+      <text x="0" y="34" class="font-heading" font-size="20" fill="#FFFFFF">Track these 3 benchmarks during the Prime Video broadcast.</text>
+      <text x="0" y="64" class="font-body" font-size="15" fill="#A0A0A0">We will post our halftime read on X and LinkedIn.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">SEA @ DEN • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: JOIN THE DISCUSSION &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, AP, TEAM SITES • THROUGH WEEK 5</text>
+  </g>
+</g></g>
+<g id="Slide_7" transform="translate(7200, 0)"><clipPath id="clip_slide_7"><rect width="1080" height="1350"/></clipPath><g clip-path="url(#clip_slide_7)">
+  
+  
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="200" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">SLAM SPORTS AI</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">07 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="960" height="420" rx="20" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" filter="url(#cardShadow)"/>
+    <circle cx="800" cy="100" r="180" fill="#FED603" opacity="0.08" filter="blur(60px)"/>
+    <circle cx="200" cy="300" r="180" fill="#0C92F1" opacity="0.08" filter="blur(60px)"/>
+    <g transform="translate(60, 60)">
+      <rect x="0" y="0" width="22" height="48" rx="4" fill="#FED603" />
+      <rect x="30" y="0" width="10" height="48" rx="4" fill="#0C92F1" />
+      <text x="56" y="35" class="font-heading-heavy" font-size="34" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+      <text x="0" y="115" class="font-mono" font-size="14" fill="#FED603" letter-spacing="2">AI-POWERED SPORTS INTELLIGENCE</text>
+      <text x="0" y="180" class="font-heading-heavy" font-size="46" fill="#FFFFFF" letter-spacing="-1">REAL SCHEME. REAL DATA.</text>
+      <text x="0" y="235" class="font-heading-heavy" font-size="46" fill="#FED603" letter-spacing="-1">ZERO HOT TAKES.</text>
+      <text x="0" y="285" class="font-body" font-size="17" fill="#A0A0A0">We replace narrative noise with schematic charting and film verification.</text>
+    </g>
+  </g>
+  <g transform="translate(60, 610)"><rect x="0" y="0" width="300" height="220" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(26, 32)">
+      <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">PILLAR 01</text>
+      <text x="0" y="36" class="font-heading" font-size="18" fill="#FFFFFF">LIVE TACTICAL</text>
+      <text x="0" y="60" class="font-heading" font-size="18" fill="#FFFFFF">CHARTING</text>
+      <text x="0" y="95" class="font-body" font-size="14" fill="#A0A0A0">Real-time tracking of box counts,</text>
+<text x="0" y="115" class="font-body" font-size="14" fill="#A0A0A0">coverage shells, and pressure</text>
+<text x="0" y="135" class="font-body" font-size="14" fill="#A0A0A0">rates.</text>
+    </g>
+<rect x="330" y="0" width="300" height="220" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(356, 32)">
+      <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">PILLAR 02</text>
+      <text x="0" y="36" class="font-heading" font-size="18" fill="#FFFFFF">SECOND-HALF</text>
+      <text x="0" y="60" class="font-heading" font-size="18" fill="#FFFFFF">ADJUSTMENTS</text>
+      <text x="0" y="95" class="font-body" font-size="14" fill="#A0A0A0">Coordinator adjustments modeled</text>
+<text x="0" y="115" class="font-body" font-size="14" fill="#A0A0A0">during the halftime window.</text>
+    </g>
+<rect x="660" y="0" width="300" height="220" rx="14" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(686, 32)">
+      <text x="0" y="0" class="font-mono" font-size="12" fill="#10B981">PILLAR 03</text>
+      <text x="0" y="36" class="font-heading" font-size="18" fill="#FFFFFF">ACCOUNTABLE</text>
+      <text x="0" y="60" class="font-heading" font-size="18" fill="#FFFFFF">FILM AUDITS</text>
+      <text x="0" y="95" class="font-body" font-size="14" fill="#A0A0A0">Every pregame projection is</text>
+<text x="0" y="115" class="font-body" font-size="14" fill="#A0A0A0">checked against the game film</text>
+<text x="0" y="135" class="font-body" font-size="14" fill="#A0A0A0">afterward.</text>
+    </g></g>
+  <g transform="translate(60, 860)">
+    <rect x="0" y="0" width="960" height="240" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(40, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1.5">JOIN THE DISCUSSION</text>
+      <text x="0" y="34" class="font-heading" font-size="22" fill="#FFFFFF">Who wins up front Thursday night: Seattle or Denver?</text>
+      <text x="0" y="68" class="font-body" font-size="16" fill="#A0A0A0">Drop your score prediction and tell us which adjustment decides the game.</text>
+      <g transform="translate(0, 120)">
+        <rect x="0" y="0" width="410" height="44" rx="8" fill="#FED603" />
+        <text x="205" y="27" class="font-heading" font-size="14" fill="#000000" text-anchor="middle">FOLLOW @SLAMSPORTSAI</text>
+        <rect x="430" y="0" width="450" height="44" rx="8" fill="#1A1A1A" stroke="#383838" stroke-width="1" />
+        <text x="655" y="27" class="font-mono" font-size="13" fill="#FFFFFF" text-anchor="middle">VISIT WWW.SLAMSPORTS.AI</text>
+      </g>
+    </g>
+  </g>
+  <g transform="translate(60, 1130)">
+    <rect x="0" y="0" width="960" height="90" rx="12" fill="#0A0A0A" stroke="#282828" stroke-width="1" />
+    <g transform="translate(36, 34)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FFFFFF">INSTAGRAM: <tspan fill="#FED603">@SLAMSPORTSAI</tspan>   •   LINKEDIN: <tspan fill="#0C92F1">SLAM SPORTS AI</tspan></text>
+      <text x="0" y="28" class="font-body" font-size="13" fill="#666666">© 2026 SLAM Sports AI Inc. All rights reserved.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">SEA @ DEN • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">SAVE &amp; SHARE THIS REPORT</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, AP, TEAM SITES • THROUGH WEEK 5</text>
+  </g>
+</g></g></svg>

@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="332" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#0C92F1" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 02 • THE GROUND GAME</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">04 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="213" height="34" rx="8" fill="rgba(12, 146, 241, 0.12)" stroke="#0C92F1" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">THE RUN-DEFENSE TEST</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE GROUND GAME:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#0C92F1">SEATTLE VS. DENVER'S FRONT</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Denver allows 4.7 yards a carry, a full yard more than Seattle averages.</text>
+  </g>
+  <g transform="translate(60, 390)">
+    <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#0C92F1" letter-spacing="1">YARDS PER CARRY: SEATTLE OFFENSE VS. DENVER DEFENSE ALLOWED</text>
+      <g transform="translate(0, 35)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#0C92F1">SEAHAWKS RUSH OFFENSE, YARDS PER CARRY</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="640" height="42" rx="8" fill="#0C92F1" />
+      <text x="626" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">3.8</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">139 CARRIES, 530 YARDS • NFL.COM</text>
+    </g>
+<g transform="translate(0, 150)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#EF4444">BRONCOS RUSH DEFENSE, YARDS ALLOWED PER CARRY</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="760" height="42" rx="8" fill="#EF4444" />
+      <text x="746" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.7</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">154 CARRIES, 726 YARDS ALLOWED • NFL.COM</text>
+    </g>
+    </g>
+  </g>
+  <g transform="translate(60, 720)">
+    <rect x="0" y="0" width="960" height="340" rx="16" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">WHAT THE NUMBERS SAY</text>
+      <text x="0" y="35" class="font-heading" font-size="24" fill="#FFFFFF">Denver has allowed seven runs of 20+ yards</text>
+      <g transform="translate(0, 60)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">THE TREND</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Denver's run defense has also given up five</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">rushing touchdowns.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Chargers back Kimani Vidal broke numerous tackles</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">on a 42-yard score Sunday.</text>
+      </g>
+    </g>
+<g transform="translate(460, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#EF4444">THE COUNTERPOINT</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Seattle's rushing attempts have produced 5</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">fumbles.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Wilson and Holani each lost one Sunday, and both led</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">to San Francisco touchdowns.</text>
+      </g>
+    </g></g>
+      <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
+      <text x="20" y="258" class="font-mono" font-size="13" fill="#FFFFFF">WATCH: SEATTLE NEEDS 4.7+ YARDS PER CARRY TO BEAT DENVER'S ALLOWED RATE</text>
+    </g>
+  </g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(32, 32)">
+      <text x="0" y="0" class="font-heading" font-size="18" fill="#0C92F1">THE OFFENSIVE MANDATE:</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Run to stay ahead of the chains, and hold on to the football.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">Denver's own run game averages 3.6 a carry against a Seattle front allowing 3.7.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">SEA @ DEN • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE RUN-GAME BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, ESPN, AP, TEAM SITES • THROUGH WEEK 5</text>
+  </g>
+</svg>
