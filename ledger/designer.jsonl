@@ -32,3 +32,5 @@
 {"composition": "r1c1|left|1", "date": "2026-10-17", "family": "figure", "image": "shadow/2026-10-17/ai-00f030f91ef3.png", "lane": "ai", "layout": "100111000|0", "look_max": 0.865, "mode": "shadow", "surface": "bone"}
 {"composition": "r2c1|free|1", "date": "2026-10-17", "family": "sequence", "image": "shadow/2026-10-17/sports-tech-6b5a85f1aba9.png", "lane": "sports-tech", "layout": "110111011|0", "look_max": 0.829, "mode": "shadow", "surface": "black"}
 {"composition": "r0c1|free|2", "date": "2026-10-17", "family": "roster", "image": "shadow/2026-10-17/investment-fb6ba4d968fd.png", "lane": "investment", "layout": "111110000|0", "look_max": 0.872, "mode": "shadow", "surface": "gold"}
+{"composition": "r1c1|free|1", "date": "2026-10-18", "family": "quote", "image": "2026-10-18/sports-tech-9315a3e38442.png", "lane": "sports-tech", "layout": "000111000|1", "look_max": 0.622, "mode": "on", "surface": "lane"}
+{"composition": "r1c1|left|2", "date": "2026-10-18", "family": "figure", "image": "2026-10-18/investment-405fb15080f5.png", "lane": "investment", "layout": "111111000|0", "look_max": 0.87, "mode": "on", "surface": "black"}
