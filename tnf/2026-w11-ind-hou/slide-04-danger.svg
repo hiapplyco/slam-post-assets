@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1350" width="1080" height="1350">
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@600;700&amp;display=swap');
+      .font-heading { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .font-heading-heavy { font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 900; }
+      .font-body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .font-mono { font-family: 'JetBrains Mono', 'Menlo', monospace; font-weight: 700; }
+    </style>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161616" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1080" height="1350" fill="#000000" />
+  <rect width="1080" height="1350" fill="url(#gridPattern)" />
+  
+  
+  
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="14" height="28" rx="3" fill="#FED603" />
+    <rect x="20" y="0" width="6" height="28" rx="3" fill="#0C92F1" />
+    <text x="36" y="20" class="font-heading" font-size="20" fill="#FFFFFF" letter-spacing="2">SLAM SPORTS AI</text>
+    <rect x="360" y="-2" width="332" height="32" rx="16" fill="#121212" stroke="#383838" stroke-width="1.5" />
+    <circle cx="376" cy="14" r="5" fill="#FED603" />
+    <text x="392" y="19" class="font-mono" font-size="12" fill="#FFFFFF" letter-spacing="1.5">ADJUSTMENT 02 • THE GROUND GAME</text>
+    <text x="960" y="20" class="font-mono" font-size="15" fill="#666666" letter-spacing="2" text-anchor="end">04 / 07</text>
+  </g>
+  <g transform="translate(60, 160)">
+    <rect x="0" y="0" width="213" height="34" rx="8" fill="rgba(254, 214, 3, 0.12)" stroke="#FED603" stroke-width="1.5" />
+    <text x="16" y="22" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">THE GROUND GAME EDGE</text>
+    <text x="0" y="85" class="font-heading-heavy" font-size="46" fill="#FFFFFF">THE GROUND GAME EDGE:</text>
+    <text x="0" y="145" class="font-heading-heavy" font-size="46" fill="#FED603">COLTS RUN VS. HOU FRONT</text>
+    <text x="0" y="190" class="font-body" font-size="18" fill="#A0A0A0">Indianapolis runs for 4.3 yards a carry. Houston's defense allows 4.0.</text>
+  </g>
+  <g transform="translate(60, 390)">
+    <rect x="0" y="0" width="960" height="310" rx="16" fill="#0A0A0A" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(36, 36)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">YARDS PER CARRY: COLTS OFFENSE VS. TEXANS DEFENSE ALLOWED</text>
+      <g transform="translate(0, 35)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#FED603">COLTS RUSH OFFENSE</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="744" height="42" rx="8" fill="#FED603" />
+      <text x="730" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.3</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">283 CARRIES, 1,209 YARDS, 12 TD • NFL.COM</text>
+    </g>
+<g transform="translate(0, 150)">
+      <text x="0" y="24" class="font-heading" font-size="18" fill="#0C92F1">TEXANS RUSH DEFENSE, YARDS ALLOWED PER CARRY</text>
+      <rect x="0" y="38" width="800" height="42" rx="8" fill="#121212" />
+      <rect x="0" y="38" width="688" height="42" rx="8" fill="#0C92F1" />
+      <text x="674" y="67" class="font-heading-heavy" font-size="24" fill="#FFFFFF" text-anchor="end">4.0</text>
+      <text x="0" y="102" class="font-mono" font-size="13" fill="#A0A0A0">232 CARRIES, 923 YARDS ALLOWED, 12 TD • NFL.COM</text>
+    </g>
+    </g>
+  </g>
+  <g transform="translate(60, 720)">
+    <rect x="0" y="0" width="960" height="340" rx="16" fill="#0A0A0A" stroke="#383838" stroke-width="1.5" />
+    <g transform="translate(36, 40)">
+      <text x="0" y="0" class="font-mono" font-size="13" fill="#FED603" letter-spacing="1">WHAT THE NUMBERS SAY</text>
+      <text x="0" y="35" class="font-heading" font-size="24" fill="#FFFFFF">Both run games point the same direction</text>
+      <g transform="translate(0, 60)"><g transform="translate(0, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#FED603">THE COLTS' RUN</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Rookie Seth McGowan ran 12 times for 77 yards</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">and a TD in Week 10.</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Taylor played 68% of Week 10 snaps. McGowan now</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">averages 5.2 a carry.</text>
+      </g>
+    </g>
+<g transform="translate(460, 0)">
+      <rect x="0" y="0" width="420" height="150" rx="10" fill="#121212" stroke="#282828" stroke-width="1" />
+      <g transform="translate(24, 28)">
+        <text x="0" y="0" class="font-mono" font-size="12" fill="#0C92F1">THE COUNTERPOINT</text>
+        <text x="0" y="26" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">Houston runs for 3.6 a carry, but the Colts allow</text>
+<text x="0" y="45" class="font-body" font-size="15" fill="#FFFFFF" font-weight="600">4.8 (1,311 yards).</text>
+        <text x="0" y="76" class="font-body" font-size="14" fill="#A0A0A0">Texans RB Woody Marks (concussion) was DNP on</text>
+<text x="0" y="94" class="font-body" font-size="14" fill="#A0A0A0">Monday's estimated report.</text>
+      </g>
+    </g></g>
+      <rect x="0" y="230" width="888" height="45" rx="8" fill="rgba(239, 68, 68, 0.15)" stroke="#EF4444" stroke-width="1" />
+      <text x="20" y="258" class="font-mono" font-size="13" fill="#FFFFFF">WATCH: COLTS NEED 4.3+ YARDS PER CARRY TO BEAT HOUSTON'S ALLOWED RATE</text>
+    </g>
+  </g>
+  <g transform="translate(60, 1080)">
+    <rect x="0" y="0" width="960" height="150" rx="14" fill="#121212" stroke="#282828" stroke-width="1.5" />
+    <g transform="translate(32, 32)">
+      <text x="0" y="0" class="font-heading" font-size="18" fill="#FED603">THE OFFENSIVE MANDATE:</text>
+      <text x="0" y="40" class="font-body" font-size="16" fill="#FFFFFF" font-weight="500">Run to stay out of obvious passing downs. Houston's 33 sacks make third-and-long the danger zone.</text>
+      <text x="0" y="66" class="font-body" font-size="15" fill="#A0A0A0">A working run game is the Colts' best answer to Houston's pass rush.</text>
+    </g>
+  </g>
+  
+  <g transform="translate(60, 1260)">
+    <line x1="0" y1="0" x2="960" y2="0" stroke="#282828" stroke-width="1" />
+    <text x="0" y="36" class="font-body" font-size="14" fill="#A0A0A0" font-weight="600">IND @ HOU • THURSDAY NIGHT FOOTBALL</text>
+    <text x="960" y="36" class="font-heading" font-size="14" fill="#FED603" letter-spacing="1" text-anchor="end">NEXT: THE RUN-GAME BLUEPRINT &gt;&gt;&gt;</text>
+    <text x="0" y="62" class="font-mono" font-size="11" fill="#666666">DATA: NFL.COM, COLTS.COM, HOUSTONTEXANS.COM • THROUGH WEEK 10</text>
+  </g>
+</svg>
